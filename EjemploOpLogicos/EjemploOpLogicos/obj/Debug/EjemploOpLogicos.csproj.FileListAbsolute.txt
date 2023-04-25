@@ -1,0 +1,8 @@
+C:\Users\Babel Sistemas\Documents\CursoC#\EjemploOpLogicos\EjemploOpLogicos\bin\Debug\EjemploOpLogicos.exe.config
+C:\Users\Babel Sistemas\Documents\CursoC#\EjemploOpLogicos\EjemploOpLogicos\bin\Debug\EjemploOpLogicos.exe
+C:\Users\Babel Sistemas\Documents\CursoC#\EjemploOpLogicos\EjemploOpLogicos\bin\Debug\EjemploOpLogicos.pdb
+C:\Users\Babel Sistemas\Documents\CursoC#\EjemploOpLogicos\EjemploOpLogicos\obj\Debug\EjemploOpLogicos.csproj.AssemblyReference.cache
+C:\Users\Babel Sistemas\Documents\CursoC#\EjemploOpLogicos\EjemploOpLogicos\obj\Debug\EjemploOpLogicos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Babel Sistemas\Documents\CursoC#\EjemploOpLogicos\EjemploOpLogicos\obj\Debug\EjemploOpLogicos.csproj.CoreCompileInputs.cache
+C:\Users\Babel Sistemas\Documents\CursoC#\EjemploOpLogicos\EjemploOpLogicos\obj\Debug\EjemploOpLogicos.exe
+C:\Users\Babel Sistemas\Documents\CursoC#\EjemploOpLogicos\EjemploOpLogicos\obj\Debug\EjemploOpLogicos.pdb
