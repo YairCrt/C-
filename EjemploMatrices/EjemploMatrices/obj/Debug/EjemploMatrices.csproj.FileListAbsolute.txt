@@ -1,0 +1,8 @@
+C:\Users\Babel Sistemas\Documents\CursoC#\EjemploMatrices\EjemploMatrices\bin\Debug\EjemploMatrices.exe.config
+C:\Users\Babel Sistemas\Documents\CursoC#\EjemploMatrices\EjemploMatrices\bin\Debug\EjemploMatrices.exe
+C:\Users\Babel Sistemas\Documents\CursoC#\EjemploMatrices\EjemploMatrices\bin\Debug\EjemploMatrices.pdb
+C:\Users\Babel Sistemas\Documents\CursoC#\EjemploMatrices\EjemploMatrices\obj\Debug\EjemploMatrices.csproj.AssemblyReference.cache
+C:\Users\Babel Sistemas\Documents\CursoC#\EjemploMatrices\EjemploMatrices\obj\Debug\EjemploMatrices.csproj.SuggestedBindingRedirects.cache
+C:\Users\Babel Sistemas\Documents\CursoC#\EjemploMatrices\EjemploMatrices\obj\Debug\EjemploMatrices.csproj.CoreCompileInputs.cache
+C:\Users\Babel Sistemas\Documents\CursoC#\EjemploMatrices\EjemploMatrices\obj\Debug\EjemploMatrices.exe
+C:\Users\Babel Sistemas\Documents\CursoC#\EjemploMatrices\EjemploMatrices\obj\Debug\EjemploMatrices.pdb
