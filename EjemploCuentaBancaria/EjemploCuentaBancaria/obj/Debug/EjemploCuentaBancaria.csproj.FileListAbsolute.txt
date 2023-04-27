@@ -1,0 +1,8 @@
+C:\Users\Babel Sistemas\Documents\CursoC#\EjemploCuentaBancaria\EjemploCuentaBancaria\bin\Debug\EjemploCuentaBancaria.exe.config
+C:\Users\Babel Sistemas\Documents\CursoC#\EjemploCuentaBancaria\EjemploCuentaBancaria\bin\Debug\EjemploCuentaBancaria.exe
+C:\Users\Babel Sistemas\Documents\CursoC#\EjemploCuentaBancaria\EjemploCuentaBancaria\bin\Debug\EjemploCuentaBancaria.pdb
+C:\Users\Babel Sistemas\Documents\CursoC#\EjemploCuentaBancaria\EjemploCuentaBancaria\obj\Debug\EjemploCuentaBancaria.csproj.AssemblyReference.cache
+C:\Users\Babel Sistemas\Documents\CursoC#\EjemploCuentaBancaria\EjemploCuentaBancaria\obj\Debug\EjemploCuentaBancaria.csproj.SuggestedBindingRedirects.cache
+C:\Users\Babel Sistemas\Documents\CursoC#\EjemploCuentaBancaria\EjemploCuentaBancaria\obj\Debug\EjemploCuentaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\Babel Sistemas\Documents\CursoC#\EjemploCuentaBancaria\EjemploCuentaBancaria\obj\Debug\EjemploCuentaBancaria.exe
+C:\Users\Babel Sistemas\Documents\CursoC#\EjemploCuentaBancaria\EjemploCuentaBancaria\obj\Debug\EjemploCuentaBancaria.pdb
