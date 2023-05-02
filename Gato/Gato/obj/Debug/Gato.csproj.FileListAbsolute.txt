@@ -1,0 +1,8 @@
+C:\Users\Babel Sistemas\Documents\CursoC#\Gato\Gato\obj\Debug\Gato.csproj.AssemblyReference.cache
+C:\Users\Babel Sistemas\Documents\CursoC#\Gato\Gato\obj\Debug\Gato.csproj.SuggestedBindingRedirects.cache
+C:\Users\Babel Sistemas\Documents\CursoC#\Gato\Gato\obj\Debug\Gato.csproj.CoreCompileInputs.cache
+C:\Users\Babel Sistemas\Documents\CursoC#\Gato\Gato\bin\Debug\Gato.exe.config
+C:\Users\Babel Sistemas\Documents\CursoC#\Gato\Gato\bin\Debug\Gato.exe
+C:\Users\Babel Sistemas\Documents\CursoC#\Gato\Gato\bin\Debug\Gato.pdb
+C:\Users\Babel Sistemas\Documents\CursoC#\Gato\Gato\obj\Debug\Gato.exe
+C:\Users\Babel Sistemas\Documents\CursoC#\Gato\Gato\obj\Debug\Gato.pdb
